@@ -7,3 +7,7 @@ Open phasmophobia
 open Phasmophobia Helper
 
 We will be probably creating discord server.
+
+i think avast may block this, if it blocks then
+just add it to 
+quarantine and then click on reset and create an exception
